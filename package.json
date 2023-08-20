@@ -1,0 +1,28 @@
+{
+  "name": "mybricks",
+  "version": "1.0.0",
+  "description": "my tribute to Lego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perdhevi/myBricks.git"
+  },
+  "keywords": [
+    "threejs",
+    "r3f"
+  ],
+  "author": "Raditya Perdhevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perdhevi/myBricks/issues"
+  },
+  "homepage": "https://github.com/perdhevi/myBricks#readme",
+  "dependencies": {
+    "@react-three/drei": "^9.80.3",
+    "react": "^18.2.0",
+    "three": "^0.155.0"
+  }
+}
